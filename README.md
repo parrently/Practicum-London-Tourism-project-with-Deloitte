@@ -20,4 +20,4 @@ Packages: (Python)
 ```
 
 ## Authors and Paper Research
-Please read [PRACTICUM.pdf](https://github.com/parrently/Practicum-London-Tourism-project-with-Deloitte/blob/master/practicum.pdf) for mroe details on our final project.
+Please read [PRACTICUM.pdf](https://github.com/parrently/Practicum-London-Tourism-project-with-Deloitte/blob/master/practicum.pdf) for the whole article of our final project.
