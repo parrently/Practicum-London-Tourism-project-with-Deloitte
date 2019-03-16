@@ -21,3 +21,6 @@ Packages: (Python)
 
 ## Authors and Paper Research
 Please read [PRACTICUM.pdf](https://github.com/parrently/Practicum-London-Tourism-project-with-Deloitte/blob/master/practicum.pdf) for the whole article of our final project.
+
+## Final Application Overview
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
