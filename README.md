@@ -23,4 +23,4 @@ Packages: (Python)
 Please read [PRACTICUM.pdf](https://github.com/parrently/Practicum-London-Tourism-project-with-Deloitte/blob/master/practicum.pdf) for the whole article of our final project.
 
 ## Final Dashboard Overview
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Overview](https://github.com/parrently/Practicum-London-Tourism-project-with-Deloitte/blob/master/Dashboard.png)
