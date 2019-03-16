@@ -20,4 +20,4 @@ Packages: (Python)
 ```
 
 ## Authors and Paper Research
-Please read [PRACTICUM.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for mroe details on our final project.
+Please read [PRACTICUM.pdf](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for mroe details on our final project.
